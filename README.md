@@ -1,3 +1,12 @@
+# create-react-app-test
+
+* [master](https://github.com/diescake/create-react-app-test): create-react-app
+* [ejected](https://github.com/diescake/create-react-app-test/tree/ejected): create-react-app and eject
+* [typescript-based](https://github.com/diescake/create-react-app-test/tree/typescript-based): create-react-app --typescript
+* [typescript-based-ejected](https://github.com/diescake/create-react-app-test/tree/typescript-based-ejected): create-react-app --typescript and eject
+
+------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
