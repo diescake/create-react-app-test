@@ -4,7 +4,7 @@
 * [ejected](https://github.com/diescake/create-react-app-test/tree/ejected): create-react-app and eject
 * [typescript-based](https://github.com/diescake/create-react-app-test/tree/typescript-based): create-react-app --typescript
 * [typescript-based-ejected](https://github.com/diescake/create-react-app-test/tree/typescript-based-ejected): create-react-app --typescript and eject
-
+* [--typescript オプションの有無による差分](https://github.com/diescake/create-react-app-test/pull/2/files)
 ------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
